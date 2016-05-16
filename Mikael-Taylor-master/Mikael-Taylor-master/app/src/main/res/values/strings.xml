@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Quaestio</string>
+    <string name="question">Question</string>
+    <string name="correct">AnswerCorrect</string>
+    <string name="ans1">Answer1</string>
+    <string name="ans2">Answer2</string>
+    <string name="ans3">Answer3</string>
+    <string name="ans4">Answer4</string>
+    <string name="difficulty">Difficulty</string>
+    <string name="score">Score</string>
+    <string name="action_settings">Settings</string>
+</resources>
